@@ -1,0 +1,97 @@
+
+/* Подключение шрифтов с гугла */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+
+/* настройки по блокам */
+body {
+    background-color: antiquewhite;
+    font-family: 'Exo 2', sans-serif;
+}
+
+h1 {
+    margin-left: 8px;
+}
+
+/* настройки класса navbar по видам блоков*/
+.navbar ul {
+    border-radius: 8px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/* при наведении курсора (hover) */
+.navbar li a:hover {
+    background-color: #111;
+}
+
+.tagbar ul {
+    width: 50%;
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.tagbar li {
+    margin: 2px;
+    border-radius: 8px;
+    background-color: #333;
+    float: left;
+}
+
+.tagbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2px 16px;
+    text-decoration: none;
+}
+
+
+
+
+/* блок со всяким текстом */
+
+.content_block {
+    position: relative;
+    margin: 8px auto;
+    border-radius: 8px;
+    width: 100%;
+    padding: 1px 0;
+    background-color: rgb(207, 194, 177);
+}
+
+.content_block p {
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+    
+    
+    text-align: justify;
+    margin: 10px;
+
+}
+
+/* блок с картинкой через фоновое изображение */
+.bgphoto {
+    position: relative;
+    border-radius: 8px;
+    margin: 8px auto;
+    width: 100%;
+    height: 200px;
+    background-image: url("../img/pictur.png");
+    background-size: cover;
+}
