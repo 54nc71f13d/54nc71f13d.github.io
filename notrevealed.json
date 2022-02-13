@@ -1,0 +1,49 @@
+{
+    "name": "Not Revealed Ancient Mushroom",
+    "symbol": "AM",
+    "description": "Who colonized land first: plants or fungi? It was mushrooms that were the first to set foot on the inhabited land. Mushrooms have been the foundation of the foundations for more than one billion years. Become a part of this ancient life. Ancient mushrooms house - your way to the elite club of those who know that everything around us was created by mushrooms",
+    "seller_fee_basis_points": 500,
+    "image": "https://54nc71f13d.github.io/notrevealed.png",
+    "external_url": "54nc71f13d.github.io",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lightlilac"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Nuclear"
+        },
+        {
+            "trait_type": "Ground",
+            "value": "Waterblue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Vault"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        }
+    ],
+    "collection": {
+        "name": "Ancient Mushrooms",
+        "family": "Ancient Mushrooms NFT"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://54nc71f13d.github.io/notrevealed.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0xd337A20E18B1E7FffB333AfE28a3F1D2AE64FA3B",
+                "share": 100
+            }
+        ]
+    }
+}
