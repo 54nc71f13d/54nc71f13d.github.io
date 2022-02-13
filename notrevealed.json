@@ -8,23 +8,23 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Uncknown"
+            "value": "Unknown"
         },
         {
             "trait_type": "Hat",
-            "value": "Uncknown"
+            "value": "Unknown"
         },
         {
             "trait_type": "Ground",
-            "value": "Uncknown"
+            "value": "Unknown"
         },
         {
             "trait_type": "Body",
-            "value": "Uncknown"
+            "value": "Unknown"
         },
         {
             "trait_type": "Eyes",
-            "value": "Uncknown"
+            "value": "Unknown"
         }
     ],
     "collection": {
